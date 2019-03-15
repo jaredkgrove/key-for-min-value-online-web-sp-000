@@ -11,7 +11,6 @@ def key_for_min_value(name_hash)
       min_value = value
     end
   end
-  min_key
 end
 
 def key_for_min_value_long(name_hash)
